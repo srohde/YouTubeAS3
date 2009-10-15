@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<swiz:BeanLoader xmlns:swiz="http://swiz.swizframework.org" xmlns:fx="http://ns.adobe.com/mxml/2009" xmlns:ctrl="com.soenkerohde.youtube.ctrl.*"
+				 xmlns:youtube="com.soenkerohde.youtube.*">
+
+	<fx:Declarations>
+		<ctrl:AppController id="appController" />
+		<youtube:Player id="youTubePlayer" />
+	</fx:Declarations>
+
+</swiz:BeanLoader>
