@@ -1,0 +1,9 @@
+YouTube AS3 is an AIR project demonstrating the use of the YouTube AS3 API together with the Swiz framework.
+This is a Flex 4 project so make sure you are using the right SDK.
+
+License
+The code is licensed under Apache 2: http://www.apache.org/licenses/LICENSE-2.0
+
+Links
+YouTube AS3 API reference: http://code.google.com/apis/youtube/flash_api_reference.html
+Swiz framework: http://swizframework.org
